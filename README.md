@@ -1,2 +1,2 @@
 # Basic_projects_Repo
- this repo contains projects i created while learning Web dev
+This repo contains projects I created while learning Web dev
